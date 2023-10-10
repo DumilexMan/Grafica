@@ -1,0 +1,8 @@
+Laborator 1
+
+1) Creati un proiect folosind Microsoft Visual Studio si integrati codurile sursa din sectiunea Resurse Laborator.
+2) (1p) Modificati in codul sursa 01_02_varfuri_triunghi.cpp urmatoarele elemente:
+dimensiunea si pozitionarea ferestrei de vizualizare;tipul / culorile primitivelor reprezentate;
+3) (1p) Transferati unul dintre codurile sursa 01_03_puncte_segmente_OLD.cpp sau 01_04_poligoane_OLD.cpp in versiunea "noua" a OpenGL. Imaginea nu trebuie sa fie exacta (la scara), ci aproximativa.
+4) (1p) Realizati o reprezentare 2D simplificata a cubului RGB (puteti utiliza si aceasta resursa)
+5) (1p) Folositi segmente de dreapta pentru a afisa data / alt text.
